@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <GroundOverlay>
+      <Icon>
+        <href>2023_06-22_MawddachEstuary_0.5.png</href>
+      </Icon>
+      <LatLonBox>
+        <north>52.741202516639177</north>
+        <south>52.73506510595918</south>
+        <east>-3.9831594404847368</east>
+        <west>-3.9948109754847367</west>
+      </LatLonBox>
+      <name>2023_06-22_MawddachEstuary_0.5.png</name>
+      <drawOrder>1</drawOrder>
+    </GroundOverlay>
+  </Document>
+</kml>
